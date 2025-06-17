@@ -1,4 +1,4 @@
 # Demo
-This is my first Github Repo
+This is my first GitHub Repo
 <br>
-Author : Ravi Dharaiya
+Author: Ravi Dharaiya
